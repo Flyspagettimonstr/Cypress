@@ -1,3 +1,6 @@
+import * as pokemon_data from "../helpers/pokemon_data.json";
+
+
 describe('Покупка аватара', function () {
 
     it('сквозной позитивный', function () {
