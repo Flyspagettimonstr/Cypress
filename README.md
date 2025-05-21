@@ -1,10 +1,5 @@
 <h2>UI Автотесты на фреймворке Cypress</h2>
 
-> **Статус проекта:**
-> Публичный проект: https://login.qa.studio/
-> 
-> 🟢 Поддерживается (активный) 
-
 ## Описание проекта и задачи
 Автоматизировать часть проверок регресса с помощью Cypress
 
@@ -52,6 +47,3 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
 
 
-## Автор
-
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
